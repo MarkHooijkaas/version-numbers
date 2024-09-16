@@ -1,1 +1,4 @@
-backend-acc-version=1.0.8
+# commentaar
+  #backend-acc-version: @sha256:dfd9a16683174836268e1ee8976b72933eaf37f4e8efc59c379a3b5ec882a6ff
+  backend-acc-version: 1.0.8
+frontend-version=
